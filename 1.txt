@@ -1,5 +1,5 @@
-总用量 112
 drwxr-xr-x  25 root root  4096 3月  26 15:50 .
+skdfksdjkfkjsdjkfksjdfkjdsjkfjks
 drwxr-xr-x  25 root root  4096 3月  26 15:50 ..
 drwxr-xr-x   2 root root  4096 3月  26 10:34 8
 drwxr-xr-x   2 root root  4096 3月  28 21:53 bin
