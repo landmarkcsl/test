@@ -19,10 +19,3 @@ dr-xr-xr-x 267 root root     0 3月  28 17:59 proc
 drwx------   5 root root  4096 3月  26 16:05 root
 drwxr-xr-x  28 root root   900 3月  28 20:53 run
 drwxr-xr-x   2 root root 12288 3月  28 21:53 sbin
-drwxr-xr-x   2 root root  4096 4月  29  2017 snap
-drwxr-xr-x   2 root root  4096 8月   1  2017 srv
-dr-xr-xr-x  13 root root     0 3月  28 21:25 sys
-drwxrwxrwt  13 root root  4096 3月  28 22:05 tmp
-drwxr-xr-x  11 root root  4096 8月   1  2017 usr
-drwxr-xr-x  15 root root  4096 3月  27 14:44 var
-lrwxrwxrwx   1 root root    30 3月  28  2018 vmlinuz -> boot/vmlinuz-4.10.0-28-generic
